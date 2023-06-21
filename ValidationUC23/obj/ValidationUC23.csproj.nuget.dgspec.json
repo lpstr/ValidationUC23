@@ -43,6 +43,22 @@
             "Bogus": {
               "target": "Package",
               "version": "[34.0.2, )"
+            },
+            "Bogus.Hollywood": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "ServiceStack.Text": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            },
+            "ServiceStack.Text.Core": {
+              "target": "Package",
+              "version": "[6.9.0, )"
             }
           },
           "imports": [

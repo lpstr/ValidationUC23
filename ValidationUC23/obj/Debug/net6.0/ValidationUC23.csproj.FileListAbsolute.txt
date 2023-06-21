@@ -13,3 +13,8 @@ C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj
 C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.pdb
 C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.genruntimeconfig.cache
 C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ref\ValidationUC23.dll
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\Bogus.dll
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\Bogus.Hollywood.dll
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.csproj.CopyComplete
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\ServiceStack.Text.dll
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\CsvHelper.dll

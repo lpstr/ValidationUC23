@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "gfHrFetKHS8Wrmk4hyA+g4YMWL35pm15Gw+deyiBW0RQwGSWfh+Uy9NLqrh6HFZr6oeUxhOiUrWEE96Z8XSvxQ==",
+  "dgSpecHash": "qN7ggX02x68+eOzbPxUwDt2GH4sg89Vu4qWByK+pdZ0R5zE6enbh0V9izTFMtDVwu44dIACm/iVTNOzmrR3zSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bogdan Bekyarov\\Documents\\TaskProject\\ValidationUC23\\ValidationUC23\\ValidationUC23.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\bogus.hollywood\\34.0.2\\bogus.hollywood.34.0.2.nupkg.sha512",
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\servicestack.text\\6.9.0\\servicestack.text.6.9.0.nupkg.sha512",
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\servicestack.text.core\\6.9.0\\servicestack.text.core.6.9.0.nupkg.sha512",
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
