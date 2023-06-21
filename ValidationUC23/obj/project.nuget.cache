@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfHrFetKHS8Wrmk4hyA+g4YMWL35pm15Gw+deyiBW0RQwGSWfh+Uy9NLqrh6HFZr6oeUxhOiUrWEE96Z8XSvxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bogdan Bekyarov\\Documents\\TaskProject\\ValidationUC23\\ValidationUC23\\ValidationUC23.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdan Bekyarov\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

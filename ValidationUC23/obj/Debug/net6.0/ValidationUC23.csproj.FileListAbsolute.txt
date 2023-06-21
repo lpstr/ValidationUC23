@@ -1,0 +1,15 @@
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\ValidationUC23.exe
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\ValidationUC23.deps.json
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\ValidationUC23.runtimeconfig.json
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\ValidationUC23.dll
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\bin\Debug\net6.0\ValidationUC23.pdb
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.csproj.AssemblyReference.cache
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.AssemblyInfoInputs.cache
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.AssemblyInfo.cs
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.dll
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\refint\ValidationUC23.dll
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.pdb
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ValidationUC23.genruntimeconfig.cache
+C:\Users\Bogdan Bekyarov\Documents\TaskProject\ValidationUC23\ValidationUC23\obj\Debug\net6.0\ref\ValidationUC23.dll
